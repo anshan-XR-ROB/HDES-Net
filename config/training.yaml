@@ -1,0 +1,8 @@
+DATASET: /export/diskpool/yangmei/EPFL
+
+BACKEND_NETWORK: MOBILENET
+
+USING_GPU: TRUE
+GPU_ID: 2
+
+
