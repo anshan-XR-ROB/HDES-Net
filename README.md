@@ -1,6 +1,6 @@
-# Real-time Monocular Pedestrian Depth Estimation and Segmentation on Embedded Systems
+# Real-Time Monocular Human Depth Estimation and Segmentation on Embedded Systems
 
-This is the Pytorch implementation of our paper: Shan An, Fangru Zhou, Mei Yang, Haogang Zhu, Changhong Fu, and Konstantinos A. Tsintotas. Real-time Monocular Pedestrian Depth Estimation and Segmentation on Embedded Systems. Submitted to IROS 2021.
+This is the Pytorch implementation of our paper: Shan An, Fangru Zhou, Mei Yang, Haogang Zhu, Changhong Fu, and Konstantinos A. Tsintotas. Real-time Monocular Human Depth Estimation and Segmentation on Embedded Systems. Accepted by IROS 2021.
 
 **Abstract:** 
 
