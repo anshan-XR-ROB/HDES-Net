@@ -8,5 +8,7 @@ Estimating a scene's depth to achieve collision avoidance against moving pedestr
 This paper proposes a novel, low complexity network architecture for fast and accurate human depth estimation and segmentation in indoor environments, aiming to applications for resource-constrained platforms (including battery-powered aerial, micro-aerial, and ground vehicles) with a monocular camera being the primary perception module. Following the encoder-decoder structure, the proposed framework consists of two branches, one for depth prediction and another for semantic segmentation. Moreover, network structure optimization is employed to improve its forward inference speed. Exhaustive experiments on three self-generated datasets prove our pipeline's capability to execute in real-time, achieving higher frame rates than contemporary state-of-the-art frameworks (114.6 frames per second on an NVIDIA Jetson Nano GPU with tensorRT) while maintaining comparable accuracy.
 
 **Videos:**
+
 Baidu Drive：https://pan.baidu.com/s/1AKUZuRf_u-PtBDQ7ocGbag 
 Code：dess 
+Google Drive: https://drive.google.com/file/d/1eTjGA_7pJxVFl1RlJxMbC-SWVo9FtKAQ/view?usp=sharing
